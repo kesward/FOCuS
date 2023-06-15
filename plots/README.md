@@ -18,7 +18,7 @@ Produced using fermi_data.ipynb with data from HEASARC repository to create imag
 
 **Figure 3**: A schematic of the detection system, with the arrow thickness corresponding to the relative velocities of data flows. Most of the computing requirements of the trigger algorithm are within the detection loop, highlighted in green.
 
-<img src="computing_flowchart.png" width="400">
+<img src="computing_flowchart.PNG" width="400">
 
 Produced using MS Powerpoint flowchart maker.
 

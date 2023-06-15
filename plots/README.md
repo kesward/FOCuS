@@ -111,3 +111,4 @@ background rate. Negligible autocorrelation is present.
 <img src="correlation_signal.png" width="600"> <img src="correlation_plot.png" width="300">
 
 Produced in fermi_data.ipynb from a HEASARC data file
+

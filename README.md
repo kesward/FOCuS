@@ -11,5 +11,3 @@ https://doi.org/10.48550/arXiv.2302.04743)) and go beyond the scope of the journ
 **plot-creation**: Reproducibility workflows for plots in the plots folder.
 
 **data**: data files used in the reproducibility workflows
-
-This code repository has been anonymised to comply with journal submission requirements.
